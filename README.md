@@ -2,7 +2,7 @@
 - 👀 I’m interested in sports, games and science
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on some small projects?
-- 📫 How to reach me - don't reach me yet
+- 📫 How to reach me - find me on fb
 
 <!---
 aivion2k/aivion2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
