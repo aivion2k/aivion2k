@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aivion2k
 - 👀 I’m interested in sports, games and science
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on some small projects?
+- 💞️ I’m looking to collaborate on some small projects
 - 📫 How to reach me - find me on fb
 
 <!---
